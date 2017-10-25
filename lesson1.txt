@@ -1,0 +1,29 @@
+Seeing the difference between two files helped me to see the bug because it
+showed the changes made between each file.
+
+Easy access to previous version could be helpful because it could allow you to
+find mistakes in your new file and revert to the old version if you don't want
+the new changes.
+
+When you manually do commits, the commits are more logical and changes and
+thought process are easier to see.
+
+Git saves multiple files in one commit because it needs the other files to have
+the whole thing work.
+
+You can use git log to find all of your commits, the you can use git diff and
+write the two different commits down, which then shows the differences between 
+the two files.
+
+Version Control will make you more confident to make changes because you can
+always revert back to the old version.
+
+This is the code displayed when you create a new repository and do git status
+HEAD detached at df03538
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	.DS_Store
+
+nothing added to commit but untracked files present (use "git add" to track)
+-bash: __git_ps1: command not found
